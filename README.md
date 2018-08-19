@@ -4,7 +4,7 @@
 
 `vim-greenisgood` works in GUI/true-color terminals, as well as 256-color terminals:
 
-lign="center">
+<p align="center">
 <img alt="Greenisgood Vim color scheme" src="img/vim-greenisgood.png"/>
 </p>
 
