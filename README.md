@@ -23,12 +23,9 @@ to your init file.
 
 Just throw this to your _~/.vimrc_:
 
+```
 colorscheme greenisgood
-
-Comments can optionally be rendered using italics:
-
-    let g:monochrome_italic_comments = 1
-    colorscheme monochrome
+```
 
 It is important that the flag is set before loading the theme.
 
