@@ -1,4 +1,4 @@
-## greenisgood - A dark Vim hacker color scheme +)
+## greenisgood - A dark Vim color scheme.
 
 ### Enjoy \o
 
